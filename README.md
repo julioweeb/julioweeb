@@ -32,14 +32,14 @@ Trabalho principalmente com **C# e ASP.NET**.
  
 <div align="center">
  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=julioweeb&show_icons=true&theme=dark&hide_border=true&count_private=true%22 />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=julioweeb&show_icons=true&theme=dark&hide_border=true&count_private=true%22/>
  
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioweeb&layout=compact&theme=dark&hide_border=true%22 />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioweeb&layout=compact&theme=dark&hide_border=true%22/>
  
 </div>
  
  
 ---
- 
-> *“Code is like humor. When you have to explain it, it’s bad.”*  
+
+> *“Código é como humor. Quando você tem que explicá-lo, é ruim.”*  
 > **— Cory House**
