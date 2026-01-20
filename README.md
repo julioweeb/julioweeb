@@ -41,5 +41,6 @@ Trabalho principalmente com **C# e ASP.NET**.
  
 ---
 
-> *“Código é como humor. Quando você tem que explicá-lo, é ruim.”*  
-> **— Cory House**
+> *“Código é como humor. Quando você tem que explicá-lo, é ruim.”*
+> 
+---
